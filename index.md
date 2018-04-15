@@ -1,32 +1,17 @@
 
 <!DOCTYPE html>
-<!--[if IE 6]>
-<html id="ie6" lang="en-US">
-<![endif]-->
-<!--[if IE 7]>
-<html id="ie7" lang="en-US">
-<![endif]-->
-<!--[if IE 8]>
-<html id="ie8" lang="en-US">
-<![endif]-->
-<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
 <html lang="en-US">
 <!--<![endif]-->
 <head>
 	<meta charset="UTF-8" />
-			
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="pingback" href="http://gandhiji.io/xmlrpc.php" />
 
-		<!--[if lt IE 9]>
-	<script src="http://gandhiji.io/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
-	<![endif]-->
-
-	<script type="text/javascript">
+<script type="text/javascript">
 		document.documentElement.className = 'js';
 	</script>
 
-	<script>var et_site_url='http://gandhiji.io';var et_post_id='267';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+<script>var et_site_url='http://gandhiji.io';var et_post_id='267';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
 </script><title>IND | Gandhiji.io</title>
 <link rel='dns-prefetch' href='//translate.google.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -84,13 +69,10 @@ img.emoji {
 
  <script>
             window.addEventListener('load', function () {
-
-                // Checking if Web3 has been injected by the browser (Mist/MetaMask)
+ // Checking if Web3 has been injected by the browser (Mist/MetaMask)
                 if (typeof web3 !== 'undefined') {
-
-                    // Use the browser's ethereum provider
+   // Use the browser's ethereum provider
                     var provider = web3.currentProvider
-
                 } else {
                     document.getElementById("metamask_error").style.display = "block";
                     if ($(window).width() < 1025) {
@@ -100,31 +82,25 @@ img.emoji {
                     }
                 }
                 web3.eth.getAccounts(function (err, accounts) {
-
-                    //console.log(accounts);
-
+       //console.log(accounts);
                     if (err != null)
                         console.error("An error occurred: " + err);
                     else if (accounts.length == 0)
                     {
                         document.getElementById("metamask_error").style.display = "block";
                         document.getElementById("metamask_error").innerHTML = '<div class="metamask_error_inner">Please unlock Metamask and refresh the page</div>';
-
-                    }
-                   
+                    }                
                 });
-
             })
         </script>
 </head>
 <body class="page-template-default page page-id-267 logged-in et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter linux et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_right_sidebar et_divi_theme et_minified_js et_minified_css">
 	<div id="metamask_error" style="color:#fff;background:#E8821E;text-align: center;display:none"></div>
-
 	<div id="page-container">
 
 	
 	
-		<header id="main-header" data-height-onload="66">
+<header id="main-header" data-height-onload="66">
 			<div class="container clearfix et_menu_container">
 							<div class="logo_container">
 					<span class="logo_helper"></span>
@@ -141,15 +117,11 @@ img.emoji {
 <li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="http://gandhiji.io/faq/">FAQ</a></li>
 <li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a class='nturl notranslate en united-states single-language flag' title='English'>English</a></li>
 <li id="menu-item-327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327"><a class='nturl notranslate hi Hindi single-language flag' title='Hindi'>Hindi</a></li>
-</ul>						</nav>
-					
-					
-					
+												</ul>						</nav>								
 										<div id="et_top_search">
 						<span id="et_search_icon"></span>
 					</div>
-					
-					<div id="et_mobile_nav_menu">
+										<div id="et_mobile_nav_menu">
 				<div class="mobile_nav closed">
 					<span class="select_page">Select Page</span>
 					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
@@ -166,6 +138,7 @@ img.emoji {
 		</header> <!-- #main-header -->
 
 		<div id="et-main-area">
+
 <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 
 <link rel="stylesheet" type="text/css" href="http://gandhiji.io/wp-content/themes/divi-child/lib/semantic.min.css">
@@ -186,7 +159,6 @@ crossorigin="anonymous"></script>
         var dc = document.cookie;
         var prefix = name + "=";
         var begin = dc.indexOf("; " + prefix);
-
         if (begin == -1) {
             begin = dc.indexOf(prefix);
             if (begin != 0)
@@ -200,21 +172,16 @@ crossorigin="anonymous"></script>
                 end = dc.length;
             }
         }
-
         return decodeURI(dc.substring(begin + prefix.length, end));
     }
-
     var url_string = window.location.href;
     var url = new URL(url_string);
     var theCookie = "karma=" + url.searchParams.get("karma");
-
     if (url.searchParams.get("karma") !== null) {
         var toSet = "karma=" + url.searchParams.get("karma");
         document.cookie = theCookie;
     } else {
-
         var refCookie = getCookie("karma");
-
         if (refCookie === null) {
             console.log("Ref cookie was null. Setting to default.");
             document.cookie = "karma=0x0000000000000000000000000000000000000000";
@@ -236,9 +203,7 @@ crossorigin="anonymous"></script>
                         <div class="ui stackable relaxed grid center aligned">
                             <div class="ui eight wide column announcement-box center aligned">
                                 Your karma link:<div id="quoteDisplay"></div><button onclick="CopyToClipboard('quoteDisplay')">Copy karma link</button>
-
                                 <script>
-
                                     function whenAvailable(name, callback) {
                                         var interval = 10;
                                         window.setTimeout(function () {
@@ -249,22 +214,18 @@ crossorigin="anonymous"></script>
                                             }
                                         }, interval);
                                     }
-
                                     whenAvailable("web3js", function () {
                                         if (web3js.eth.accounts[0] !== null) {
                                             var element = "<a href='http://gandhiji.io/ind/?karma=" + currentAddress + "'>http://gandhiji.io/ind/?karma=" + currentAddress + "</a>";
                                             $("#quoteDisplay").append(element);
                                         }
-
                                     });
-
                                     function CopyToClipboard(containerid) {
                                         if (document.selection) {
                                             var range = document.body.createTextRange();
                                             range.moveToElementText(document.getElementById(containerid));
                                             range.select().createTextRange();
                                             document.execCommand("copy");
-
                                         } else if (window.getSelection) {
                                             var range = document.createRange();
                                             range.selectNode(document.getElementById(containerid));
@@ -273,15 +234,12 @@ crossorigin="anonymous"></script>
                                             //alert("text copied") 
                                         }
                                     }
-
                                 </script>
                                 <div>Note that your karma does not become active until you have 1 Tokens.</div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
                 <div class="ui container" >
                     <div class="ui stackable grid">
                         <div class="ui sixteen wide column interface dimmable wallet-mm logged-in" id="meta-mask-ui">
@@ -291,17 +249,12 @@ crossorigin="anonymous"></script>
                                         <div class="spinning-logo">
                                             <img src="http://gandhiji.io/wp-content/uploads/2018/04/about4-1.png">
                                         </div>
-
-
                                         <input type="number" id="purchase-amount" min="0" step="0.01" class="when-logged-in input-amount" placeholder="Amount in ETH (e.g. 0.5)">
-
                                         <div class="when-logged-in" id="address-balance">
                                             Balance: <span class="address-balance">0 ETH</span><br>
                                             <span class="number-of-tokens"></span>
                                         </div>
-
                                         <button id="buy-tokens" class="ui primary huge button when-logged-in">Buy Tokens</button>
-
                                         <div id="currency-selector">
                                             Select your currency:                                <select id="currency">
                                                 <option>USD</option>
@@ -338,26 +291,12 @@ crossorigin="anonymous"></script>
                                                 <option>ZAR</option>
                                             </select>
                                         </div>
-
                                         <div class="when-logged-in">
                                             <a href="#" id="donate-open">Donate to Project</a>
                                         </div>
                                         <div>
                                             <img src="http://gandhiji.io/wp-content/uploads/2018/04/IND-Token.png" style="width: 50%;margin-top: 25px;">
-                                        </div>
-                                        <!--<div>
-                                                                            <ul class="notes">
-                                                                            <li> -	A POW TOKEN WITH A LONG TERM VISION</li>
-                                                                            <li> -	GET 50% DIVIDEND ON BUY AND SELL ORDERS</li>
-                                                                            <li> -	PRICE OF TOKEN GOES UP AND DOWN A LITTLE ON BUY AND SELL ORDERS</li>
-                                                                            <li>-	COMPATIBLE ON DESKTOP, TABLET AND MOBILE(APPLE AND ANDROID)</li>
-                                                                            <li>-	IN THE FUTURE OWNING TOKENS WILL GET YOU EXCLUSIVE FREE BONUS ITEMS IN THE GAME</li>
-                                                                            <li>-	WHERE BEING A BAG HOLDER IS REWARDED UNTIL NOBODY BUYS OR SELLS ANYMORE</li>
-                                                                            <li>-	ESTABLISHED AND EXPERIENCED TEAM SUPPORTED BY A PASSIONATE COMMUNITY</li>
-                                                                            </ul>
-                                                                            
-                                        </div>-->
-
+                                        </div>                                     
                                         <div class="when-wallet-web">
                                             <a href="#" id="wallet-open">Wallet Management</a>
                                         </div>
@@ -372,9 +311,6 @@ crossorigin="anonymous"></script>
                                                 <div class="contract-balance-usd value-usd">(0 USD)</div>
                                             </div>
                                         </div>
-
-
-
                                         <div class="ui eight wide column">
                                             <div class="price-box">
                                                 <div class="title">Total IND Tokens</div>
@@ -382,7 +318,6 @@ crossorigin="anonymous"></script>
                                                 <div class="contract-tokens-usd value-usd"></div>
                                             </div>
                                         </div>	
-
                                         <div class="ui eight wide column">
                                             <div class="price-box">
                                                 <div class="title">Buy Price</div>
@@ -480,7 +415,6 @@ crossorigin="anonymous"></script>
                                         Sell Your Tokens</button>
                                     <br>
                                     <input id="sell-tokens-amount" type="number" class="ui method big when-logged-in input-amount" min="0" step="0.01" placeholder="Amount in IND Tokens">
-
                                 </div>
                                 <div class="column">
                                     <button id="reinvest-btn" class="ui method button big primary button">Reinvest</button>
@@ -603,13 +537,11 @@ crossorigin="anonymous"></script>
 </div>
 <script type="text/javascript">
     var default_currency = 'USD'
-
     $('#metamask-detecting').dimmer({closable: false})
     $('#metamask-not-found').dimmer({closable: false})
     $('#donate-dimmer').dimmer({closable: false})
     $('#seed-dimmer').dimmer({closable: false})
     $('#wallet-dimmer').dimmer({closable: false})
-
     $('#metamask-detecting').dimmer('show')
 </script>
 
@@ -634,3 +566,43 @@ crossorigin="anonymous"></script>
 <script type="text/javascript" src="http://gandhiji.io/wp-content/themes/divi-child/lib/web3.js"></script>
 <script type="text/javascript" src="http://gandhiji.io/wp-content/themes/divi-child/lib/lightwallet.min.js"></script>
 <script type="text/javascript" src="http://gandhiji.io/wp-content/themes/divi-child/lib/poh-new-info.js"></script>
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+			<footer id="main-footer">
+							<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info">© 2018 <a>Gandhiji</a>. All Rights Reserved.</div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+	</div> <!-- #page-container -->
+	<div id="glt-translate-trigger"><span class="notranslate">Translate »</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="English"><a title="English" class="nturl notranslate en flag united-states"></a><li id="Hindi"><a title="Hindi" class="nturl notranslate hi flag Hindi"></a></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-en"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en,hi', autoDisplay: false}, 'google_language_translator');}</script>	<script type="text/javascript">
+		var et_animation_data = [];
+	</script>
+	<script type="text/javascript">
+	jQuery(document).ready(function($){
+		var window_height = $(window).height();
+		$('.home-slider .et_pb_slide').height(window_height);
+		$(window).resize(function(){
+			var window_height = $(window).height();
+			$('.home-slider .et_pb_slide').height(window_height);
+		})
+		setTimeout(function(){
+			var metamask = $('#metamask_error').outerHeight();
+			$('body').css('padding-top', metamask - 1);
+			$('#main-header').css('top', metamask - 1);
+		}, 500);		
+	});
+</script><script type='text/javascript' src='http://gandhiji.io/wp-content/plugins/google-language-translator/js/scripts.js?ver=5.0.48'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"http:\/\/gandhiji.io\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/gandhiji.io\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/gandhiji.io\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"1950cb8d49","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"74df243ee4","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"267","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://gandhiji.io/wp-content/themes/Divi/js/custom.min.js?ver=3.0.106'></script>
+<script type='text/javascript' src='http://gandhiji.io/wp-content/themes/Divi/core/admin/js/common.js?ver=3.0.106'></script>
+<script type='text/javascript' src='http://gandhiji.io/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+</body>
+</html>
