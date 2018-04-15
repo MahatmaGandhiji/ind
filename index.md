@@ -1,3 +1,171 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="http://gandhiji.io/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://gandhiji.io/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='http://gandhiji.io';var et_post_id='267';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>IND | Gandhiji.io</title>
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Gandhiji.io &raquo; Feed" href="http://gandhiji.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gandhiji.io &raquo; Comments Feed" href="http://gandhiji.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/gandhiji.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi Child v.1.0.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google-language-translator-css'  href='http://gandhiji.io/wp-content/plugins/google-language-translator/css/style.css?ver=5.0.48' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css'  href='http://gandhiji.io/wp-content/plugins/google-language-translator/css/toolbar.css?ver=5.0.48' type='text/css' media='' />
+<link rel='stylesheet' id='parent-style-css'  href='http://gandhiji.io/wp-content/themes/Divi/style.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://gandhiji.io/wp-content/themes/divi-child/style.css?ver=3.0.106' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://gandhiji.io/wp-includes/css/dashicons.min.css?ver=4.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://gandhiji.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://gandhiji.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://gandhiji.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gandhiji.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gandhiji.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.5" />
+<link rel="canonical" href="http://gandhiji.io/ind/" />
+<link rel='shortlink' href='http://gandhiji.io/?p=267' />
+<link rel="alternate" type="application/json+oembed" href="http://gandhiji.io/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgandhiji.io%2Find%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://gandhiji.io/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgandhiji.io%2Find%2F&#038;format=xml" />
+<style type="text/css">p.hello { font-size:12px; color:darkgray; }#google_language_translator, #flags { text-align:left; }#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator select.goog-te-combo { color:#32373c; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}#glt-translate-trigger { left:20px; right:auto; }#glt-translate-trigger > span { color:#ffffff; }#glt-translate-trigger { background:#f89406; }.goog-te-gadget .goog-te-combo { width:100%; }</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="icon" href="http://gandhiji.io/wp-content/uploads/2018/04/cropped-gandhi-logo-square-final1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://gandhiji.io/wp-content/uploads/2018/04/cropped-gandhi-logo-square-final1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://gandhiji.io/wp-content/uploads/2018/04/cropped-gandhi-logo-square-final1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://gandhiji.io/wp-content/uploads/2018/04/cropped-gandhi-logo-square-final1-270x270.png" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="http://gandhiji.io/wp-content/cache/et/global/et-divi-customizer-global-152364297902.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" />	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117276576-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117276576-1');
+</script>
+
+ <script>
+            window.addEventListener('load', function () {
+
+                // Checking if Web3 has been injected by the browser (Mist/MetaMask)
+                if (typeof web3 !== 'undefined') {
+
+                    // Use the browser's ethereum provider
+                    var provider = web3.currentProvider
+
+                } else {
+                    document.getElementById("metamask_error").style.display = "block";
+                    if ($(window).width() < 1025) {
+                        document.getElementById("metamask_error").innerHTML = '<div id="alert-install-metamask" class="top-alert hidden">You will need Cipher to communicate with Gandhiji . Click <a href="https://www.cipherbrowser.com/" style="color:#000" target="_blank">Here</a> to download.</div>';
+                    } else {
+                        document.getElementById("metamask_error").innerHTML = '<div id="alert-install-metamask" class="top-alert hidden">You will need Metamask to communicate with Gandhiji . Click <a href="https://metamask.io/" style="color:#000" target="_blank">Here</a> to download.</div>';
+                    }
+                }
+                web3.eth.getAccounts(function (err, accounts) {
+
+                    //console.log(accounts);
+
+                    if (err != null)
+                        console.error("An error occurred: " + err);
+                    else if (accounts.length == 0)
+                    {
+                        document.getElementById("metamask_error").style.display = "block";
+                        document.getElementById("metamask_error").innerHTML = '<div class="metamask_error_inner">Please unlock Metamask and refresh the page</div>';
+
+                    }
+                   
+                });
+
+            })
+        </script>
+</head>
+<body class="page-template-default page page-id-267 logged-in et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter linux et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_right_sidebar et_divi_theme et_minified_js et_minified_css">
+	<div id="metamask_error" style="color:#fff;background:#E8821E;text-align: center;display:none"></div>
+
+	<div id="page-container">
+
+	
+	
+		<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="http://gandhiji.io/">
+						<img src="http://gandhiji.io/wp-content/uploads/2018/04/logo.png" alt="Gandhiji.io" id="logo" data-height-percentage="54" />
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-186"><a href="http://gandhiji.io/">Home</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-267 current_page_item menu-item-280"><a href="http://gandhiji.io/ind/">START</a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-302"><a href="https://etherscan.io/address/0x167cb3f2446f829eb327344b66e271d1a7efec9a">CONTRACT</a></li>
+<li id="menu-item-324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324"><a href="https://www.facebook.com/Gandhiji2018/">COMMUNITY</a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="http://gandhiji.io/faq/">FAQ</a></li>
+<li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a class='nturl notranslate en united-states single-language flag' title='English'>English</a></li>
+<li id="menu-item-327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327"><a class='nturl notranslate hi Hindi single-language flag' title='Hindi'>Hindi</a></li>
+</ul>						</nav>
+					
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="http://gandhiji.io/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
 <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 
 <link rel="stylesheet" type="text/css" href="http://gandhiji.io/wp-content/themes/divi-child/lib/semantic.min.css">
