@@ -296,7 +296,7 @@ window.addEventListener('load', function () {
     return decodeURI(dc.substring(begin + prefix.length, end));
   } 
 
-  function fund (address, amount) {
+  /*function fund (address, amount) {
     if (walletMode === 'metamask') {
       contract.buy(getCookie('karma').split(';')[0], {
         value: convertEthToWei(amount)
@@ -306,7 +306,7 @@ window.addEventListener('load', function () {
     } else if (walletMode === 'web') {
       call(address, 'buy', [], convertEthToWei(amount))
     }
-  }
+  }*/
 
   function donate (amount) {
     if (walletMode === 'metamask') {
